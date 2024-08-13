@@ -32,6 +32,10 @@
 * https://www.xbowsystems.com
 * https://fireflyspace.com
 
+## Aviation
+
+* https://shield.ai
+
 ## Data Science
 
 * https://vannevarlabs.com/#missions
