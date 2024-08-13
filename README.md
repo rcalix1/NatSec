@@ -35,3 +35,7 @@
 ## Data Science
 
 * https://vannevarlabs.com/#missions
+
+## Ocean going
+
+* https://www.regentcraft.com
