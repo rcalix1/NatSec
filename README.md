@@ -26,6 +26,7 @@
 
 * https://www.sierraspace.com
 * https://www.k2space.com
+* https://leolabs.space
 
 ## Data Science
 
