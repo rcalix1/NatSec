@@ -17,3 +17,7 @@
 ## Power Plants
 
 * https://zeroavia.com
+
+## Network Security
+
+* https://www.horizon3.ai
