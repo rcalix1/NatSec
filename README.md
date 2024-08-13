@@ -29,6 +29,7 @@
 * https://leolabs.space
 * https://www.trueanomaly.space
 * https://www.xbowsystems.com
+* https://fireflyspace.com
 
 ## Data Science
 
