@@ -25,3 +25,7 @@
 ## Space
 
 * https://www.sierraspace.com
+
+## Data Science
+
+* https://vannevarlabs.com/#missions
