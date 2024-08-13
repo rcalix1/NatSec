@@ -21,6 +21,7 @@
 ## Network Security
 
 * https://www.horizon3.ai
+* https://versa-networks.com
 
 ## Space
 
