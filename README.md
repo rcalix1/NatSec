@@ -1,6 +1,6 @@
 # NatSec
 
-* National Security landscape
+* National Security startup landscape
 
 ## Venture Capital Funds
 
