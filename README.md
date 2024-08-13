@@ -12,3 +12,7 @@
 ## AI cloud services
 
 * https://lambdalabs.com
+
+## Power Plants
+
+* https://zeroavia.com
