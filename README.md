@@ -48,6 +48,7 @@
 * https://www.tomorrow.io
 * https://www.turbineone.com
 * https://www.airspace-intelligence.com
+* https://www.vastdata.com
 
 ## Ocean going
 
