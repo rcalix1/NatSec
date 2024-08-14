@@ -67,6 +67,7 @@
 * https://scale.com (look at this one in more depth)
 * https://wow.groq.com/about-us/
 * https://www.privateer.com/products/for-space
+* https://snorkel.ai
 
 ## Ocean going
 
