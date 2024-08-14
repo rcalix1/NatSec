@@ -50,6 +50,7 @@
 
 * https://www.regentcraft.com
 * https://seasats.com
+* https://www.saronic.com
 
 ## Edge AI
 
