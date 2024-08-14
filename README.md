@@ -10,6 +10,7 @@
 * https://www.boozallen.com/expertise/innovation/ventures.html
 * https://foundersfund.com
 * https://a16z.com
+* https://gaingels.com/#toggle-gdpr
 
 ## AI cloud services
 
