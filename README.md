@@ -54,6 +54,7 @@
 * https://www.axiomspace.com
 * https://umbra.space
 * https://www.datarobot.com
+* https://www.databricks.com
 
 ## Ocean going
 
