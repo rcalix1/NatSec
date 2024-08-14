@@ -50,3 +50,7 @@
 
 * https://www.regentcraft.com
 * https://seasats.com
+
+## Edge AI
+
+* https://sima.ai
