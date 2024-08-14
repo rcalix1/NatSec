@@ -59,6 +59,7 @@
 * https://www.datarobot.com
 * https://www.databricks.com
 * https://scale.com (look at this one in more depth)
+* https://wow.groq.com/about-us/
 
 ## Ocean going
 
