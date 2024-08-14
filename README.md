@@ -49,3 +49,4 @@
 ## Ocean going
 
 * https://www.regentcraft.com
+* https://seasats.com
