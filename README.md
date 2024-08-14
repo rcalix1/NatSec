@@ -76,6 +76,7 @@
 ## Edge AI
 
 * https://sima.ai
+* https://www.armada.ai
 
 ## Radio and Energy Systems
 
