@@ -55,7 +55,7 @@
 * https://umbra.space
 * https://www.datarobot.com
 * https://www.databricks.com
-* https://scale.com (look at this one in more dept)
+* https://scale.com (look at this one in more depth)
 
 ## Ocean going
 
