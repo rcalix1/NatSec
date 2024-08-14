@@ -31,6 +31,7 @@
 * https://www.trueanomaly.space
 * https://www.xbowsystems.com
 * https://fireflyspace.com
+* https://www.stokespace.com
 
 ## Aviation
 
