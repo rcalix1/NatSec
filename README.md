@@ -63,4 +63,6 @@
 
 ## Radio and Energy Systems
 
-^ https://www.epirusinc.com/electronic-warfare
+* https://www.epirusinc.com/electronic-warfare
+
+
