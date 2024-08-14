@@ -17,6 +17,7 @@
 ## Power Plants
 
 * https://zeroavia.com
+* https://www.whisper.aero
 
 ## Network Security
 
