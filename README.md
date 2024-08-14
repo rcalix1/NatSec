@@ -52,6 +52,7 @@
 * https://www.vastdata.com
 * https://www.axiomspace.com
 * https://umbra.space
+* https://www.datarobot.com
 
 ## Ocean going
 
