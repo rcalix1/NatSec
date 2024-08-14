@@ -46,6 +46,7 @@
 * https://vannevarlabs.com/#missions
 * https://www.tomorrow.io
 * https://www.turbineone.com
+* https://www.airspace-intelligence.com
 
 ## Ocean going
 
