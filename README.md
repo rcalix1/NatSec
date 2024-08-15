@@ -75,6 +75,7 @@
 * https://www.tiledb.com
 * https://sambanova.ai
 * https://www.thoughtspot.com
+* https://grafana.com
 
 ## Ocean going
 
