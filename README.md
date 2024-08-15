@@ -118,6 +118,10 @@
 * https://www.hadrian.co
 * https://rebuildmanufacturing.com
 
+## Other
+
+* https://www.laserlightcomms.com
+
 ## Insightful Communications
 
 * https://www.defense.gov/News/Releases/Release/Article/3765644/deputy-secretary-of-defense-hicks-announces-first-tranche-of-replicator-capabil/
