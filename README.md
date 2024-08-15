@@ -56,6 +56,7 @@
 
 * https://www.anduril.com
 * https://www.skydio.com
+* https://www.beta.team
 
 ## Data Driven
 
