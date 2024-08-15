@@ -68,6 +68,7 @@
 * https://wow.groq.com/about-us/
 * https://www.privateer.com/products/for-space
 * https://snorkel.ai
+* https://www.chainalysis.com
 
 ## Ocean going
 
