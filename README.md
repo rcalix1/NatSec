@@ -15,6 +15,7 @@
 ## AI cloud services
 
 * https://lambdalabs.com
+* https://www.cloudbees.com
 
 ## Satelites
 
