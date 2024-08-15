@@ -114,6 +114,10 @@
 
 * https://www.appliedintuition.com
 
+## Supply Chain
+
+* https://altana.ai
+
 ## Manufacturing
 
 * https://www.hadrian.co
