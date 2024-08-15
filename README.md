@@ -89,6 +89,7 @@
 * https://www.onebrief.com
 * https://www.secondfront.com
 * https://www.capellaspace.com
+* https://unstructured.io
 
 ## Ocean going
 
