@@ -114,6 +114,7 @@
 * https://www.nironmagnetics.com
 * https://www.iconbuild.com
 * https://www.varda.com
+* https://arriscomposites.com/#consumer-products
 
 ## Autonomous Vehicles 
 
