@@ -89,6 +89,7 @@
 
 * https://cambium-usa.com
 * https://lyten.com
+* https://www.nironmagnetics.com
 
 ## Autonomous Vehicles 
 
