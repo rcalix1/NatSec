@@ -91,6 +91,7 @@
 * https://lyten.com
 * https://www.nironmagnetics.com
 * https://www.iconbuild.com
+* https://www.varda.com
 
 ## Autonomous Vehicles 
 
