@@ -133,5 +133,6 @@
 ## Insightful Communications
 
 * https://www.defense.gov/News/Releases/Release/Article/3765644/deputy-secretary-of-defense-hicks-announces-first-tranche-of-replicator-capabil/
+* https://www.diu.mil/replicator
 
 
