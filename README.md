@@ -74,6 +74,7 @@
 * https://www.chainalysis.com
 * https://www.tiledb.com
 * https://sambanova.ai
+* https://www.thoughtspot.com
 
 ## Ocean going
 
