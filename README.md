@@ -16,6 +16,7 @@
 
 * https://lambdalabs.com
 * https://www.cloudbees.com
+* https://www.cerebras.net
 
 ## Satelites
 
