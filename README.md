@@ -96,6 +96,7 @@
 * https://workera.ai
 * https://www.dataiku.com
 * https://www.automationanywhere.com
+* https://albedo.com
 
 ## Ocean going
 
