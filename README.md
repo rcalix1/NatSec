@@ -81,6 +81,7 @@
 * https://grafana.com
 * https://www.sandboxaq.com
 * https://www.he360.com
+* https://www.nominal.io
 
 ## Ocean going
 
