@@ -127,9 +127,10 @@
 
 * https://www.appliedintuition.com
 
-## Supply Chain
+## Supply and Space Chain
 
 * https://altana.ai
+* https://www.privateer.com/products/for-space
 
 ## Manufacturing
 
