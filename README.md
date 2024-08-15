@@ -88,6 +88,7 @@
 * https://www.nominal.io
 * https://www.onebrief.com
 * https://www.secondfront.com
+* https://www.capellaspace.com
 
 ## Ocean going
 
@@ -104,6 +105,7 @@
 ## Radio and Energy Systems
 
 * https://www.epirusinc.com/electronic-warfare
+  
 
 ## Materials
 
