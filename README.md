@@ -92,6 +92,7 @@
 * https://www.secondfront.com
 * https://www.capellaspace.com
 * https://unstructured.io
+* https://workera.ai
 
 ## Ocean going
 
